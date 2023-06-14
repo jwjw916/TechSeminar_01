@@ -12,7 +12,9 @@
 
 ## testapi.py & testapi2.py
 api 이용해서 streamlit 구현한 코드
-  (파일 안 출처)
+(파일 안 출처)
+gradio 구현한 코드
+(https://youtu.be/JERv5-ibCDM)
 
 ## retire, card, invest, quiz
 system_message에 따라 4개의 챗봇 만들기 (prompt)
