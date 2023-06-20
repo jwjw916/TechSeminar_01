@@ -11,8 +11,8 @@
 
 
 ## testapi.py & testapi2.py
-api 이용해서 streamlit 구현한 코드  
-(파일 안 출처)
+api 이용해서 streamlit 구현한 코드
+(파일 안 출처)  
 gradio 구현한 코드
 (https://youtu.be/JERv5-ibCDM)
 
