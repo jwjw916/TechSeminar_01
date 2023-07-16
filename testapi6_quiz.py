@@ -1,6 +1,6 @@
 import openai
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "sk-"
 if not OPENAI_API_KEY:
     print("NEED OPENAI API Key from https://platform.openai.com/account/api-keys")
 openai.api_key = OPENAI_API_KEY
